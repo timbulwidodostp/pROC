@@ -1,6 +1,8 @@
 # pROC
 Display and analyze ROC curves Use roc (pROC) With (In) R Software
 
+https://www.youtube.com/watch?v=VVXWlmS91jY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
